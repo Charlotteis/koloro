@@ -17,7 +17,7 @@
   ],
   "preferGlobal": true,
   "bin": {
-  "koloro": "index.js"
+    "koloro": "index.js"
   },
   "author": "Charlotte Spencer <charlottelaspencer@gmail.com>",
   "license": "MIT",
