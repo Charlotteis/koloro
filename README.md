@@ -1,3 +1,6 @@
+**This project wont happen (yet) as it is not possible to display all 16k+ hex codes in the terminal in a way in which everyone can use this**
+
+
 # koloro
 
 [Badges]
