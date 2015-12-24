@@ -16,6 +16,9 @@
     "hex"
   ],
   "preferGlobal": true,
+  "bin": {
+  "koloro": "index.js"
+  },
   "author": "Charlotte Spencer <charlottelaspencer@gmail.com>",
   "license": "MIT",
   "bugs": {
