@@ -2,7 +2,6 @@
   "name": "koloro",
   "version": "1.0.0",
   "description": "A command line tool; give koloro a HEX and it will show you what it looks like.",
-  "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,6 +15,7 @@
     "command-line",
     "hex"
   ],
+  "preferGlobal": true,
   "author": "Charlotte Spencer <charlottelaspencer@gmail.com>",
   "license": "MIT",
   "bugs": {
