@@ -1,0 +1,25 @@
+{
+  "name": "koloro",
+  "version": "1.0.0",
+  "description": "A command line tool; give koloro a HEX and it will show you what it looks like.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Charlotteis/koloro.git"
+  },
+  "keywords": [
+    "koloro",
+    "colour",
+    "command-line",
+    "hex"
+  ],
+  "author": "Charlotte Spencer <charlottelaspencer@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Charlotteis/koloro/issues"
+  },
+  "homepage": "https://github.com/Charlotteis/koloro#readme"
+}
